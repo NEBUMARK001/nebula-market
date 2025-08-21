@@ -41,7 +41,7 @@ A modern, responsive trading dashboard built with Next.js, TypeScript, and Tailw
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/nebula-market.git
+   git clone https://github.com/NEBUMARK001/nebula-market.git
    cd nebula-market
    ```
 
@@ -192,7 +192,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Email**: support@nebulamarket.com
 - **Documentation**: [docs.nebulamarket.com](https://docs.nebulamarket.com)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/nebula-market/issues)
+- **Issues**: [GitHub Issues](https://github.com/NEBUMARK001/nebula-market/issues)
 
 ## 🔮 Roadmap
 
@@ -209,6 +209,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ by the Nebula Market Team**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/nebula-market?style=social)](https://github.com/yourusername/nebula-market)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/nebula-market?style=social)](https://github.com/yourusername/nebula-market)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/nebula-market)](https://github.com/yourusername/nebula-market/issues)
+[![GitHub stars](https://img.shields.io/github/stars/NEBUMARK001/nebula-market?style=social)](https://github.com/NEBUMARK001/nebula-market)
+[![GitHub forks](https://img.shields.io/github/forks/NEBUMARK001/nebula-market?style=social)](https://github.com/NEBUMARK001/nebula-market)
+[![GitHub issues](https://img.shields.io/github/issues/NEBUMARK001/nebula-market)](https://github.com/NEBUMARK001/nebula-market/issues)
